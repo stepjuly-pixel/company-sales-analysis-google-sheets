@@ -38,13 +38,13 @@ The project uses three source sheets merged into a single analytical dataset:
 
 ### Category Analysis
 
-- **Office Supplies** leads by revenue (~$375M), followed by **Household** (~$275M) and **Cosmetics** (~$215M)
+- **Office Supplies** leads by revenue (approx. $375M), followed by **Household** (approx. $275M) and **Cosmetics** (approx. $215M)
 
 - **Fruits** has the lowest revenue across all categories
 
 - Profit margins vary significantly between categories
 
-<img src="images/category_analyse.png" width="700" />
+<img src="images/category_analyze.png" width="700" />
 
 ### Sales Channel Analysis
 
@@ -52,7 +52,7 @@ The project uses three source sheets merged into a single analytical dataset:
 
 - Offline slightly exceeds Online in total revenue, but profit is nearly identical
 
-<img src="images/sales_channel_analyse.png" width="550" />
+<img src="images/sales_channel_analyze.png" width="550" />
 
 ### Shipping Interval Analysis
 
@@ -137,8 +137,8 @@ The workbook contains 14 sheets:
 ```
 company-sales-analysis-google-sheets/
 ├── images/
-│   ├── category_analyse.png
-│   ├── sales_channel_analyse.png
+│   ├── category_analyze.png
+│   ├── sales_channel_analyze.png
 │   ├── interval_shipping.png
 │   ├── profit_by_year.png
 │   ├── weekday_analyze.png
